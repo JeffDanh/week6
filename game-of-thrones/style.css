@@ -1,0 +1,11 @@
+body{
+    background-image: url('http://i.imgur.com/bvFwFPo.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+}
+#name{
+    margin-left: 40%;
+}
